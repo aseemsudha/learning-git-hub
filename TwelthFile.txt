@@ -1,2 +1,2 @@
 my text should be added again and again
-why not my text
+new file text
